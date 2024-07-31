@@ -1,2 +1,7 @@
-hi i am Navnath, i maaried to soumya FROM BIDAR
+#!/bin/bash
+
+for i in {1..10}
+do 
+	echi "Creaded navnath file"
+done
 
