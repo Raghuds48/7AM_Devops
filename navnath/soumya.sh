@@ -1,2 +1,3 @@
-hi i am Navnath, i maaried to soumya FROM BIDAR
+#!/bin/bash
 
+echo " script for navnathfile"
