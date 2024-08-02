@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "memory utilization "
+echo "memory utilization in remote "
 echo "******************"
 
 echo "Display cpu usage : "
