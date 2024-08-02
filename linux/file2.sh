@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "memory utilization "
+echo "memory utilization in local "
 echo "******************"
 
 echo "Display cpu usage : "
